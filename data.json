@@ -3,6 +3,7 @@
     {
         "id": "1",
         "name": "Shaun Marsh",
+        "bio": "Shaun Marsh is one of the main reasons why the restaurant Cookiteer is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
@@ -10,6 +11,7 @@
             {
                 "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXwj1XwZOIvvM_kOVQ6LUCU3WIIcDNqem8li1uXmQ&s",
                 "recipeName": "Hamburger",
+                
                 "ingredients": "Ground beef,Salt and pepper, Hamburger buns,Tomato,Onion,Pickles",
                 "rating": 4.5,
                 "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking.Season the patties with salt and pepper on both sides."
@@ -33,6 +35,7 @@
     {
         "id": "2",
         "name": "Shean Watson",
+        "bio": "Shaun Marsh is one of the main reasons why the restaurant Cookiteer is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://as2.ftcdn.net/v2/jpg/04/19/31/51/1000_F_419315193_vhS3TMEtV91CKXmbxRdEuGSwfiYPFOg1.jpg",
@@ -63,6 +66,7 @@
     {
         "id": "3",
         "name": "Shaun Marsh",
+        "bio": "Shaun Marsh is one of the main reasons why the restaurant Cookiteer is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://t3.ftcdn.net/jpg/00/48/69/34/240_F_48693442_sqWbhb7sOWYKUlGK1CWck3k1asmAdGSL.jpg",
@@ -93,6 +97,7 @@
     {
         "id": "4",
         "name": "Shaun Marsh",
+        "bio": "Shaun Marsh is one of the main reasons why the restaurant Cookiteer is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://t3.ftcdn.net/jpg/00/48/89/34/240_F_48893481_4GBks3oRkQx0LTRsaL5BAPpOFpoXyhPt.jpg",
@@ -123,6 +128,7 @@
     {
         "id": "5",
         "name": "Shaun Marsh",
+        "bio": "Shaun Marsh is one of the main reasons why the restaurant Cookiteer is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://t3.ftcdn.net/jpg/01/58/89/28/240_F_158892865_HNS7LtgJpvpxTj45n4qO5apjELT5Thua.jpg",
@@ -153,6 +159,7 @@
     {
         "id": "6",
         "name": "Michel Clerk",
+        "bio": "Shaun Marsh is one of the main reasons why the restaurant Cookiteer is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://t3.ftcdn.net/jpg/00/34/50/88/240_F_34508847_P1uQLdxDFcpPoM51o4RJpYBj2Yv9U94k.jpg",
