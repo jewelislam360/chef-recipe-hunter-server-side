@@ -14,6 +14,7 @@
                 
                 "ingredients": "Ground beef,Salt and pepper, Hamburger buns,Tomato,Onion,Pickles",
                 "rating": 4.5,
+                "likes": 3895,
                 "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking.Season the patties with salt and pepper on both sides."
             },
             {
@@ -21,6 +22,7 @@
                 "recipeName": "Cheeseburger",
                 "ingredients": "Ground beef,Salt and pepper,LettuceTomato,Onion ,Pickles",
                 "rating": 4,
+                "likes": 3724,
                 "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             },
             {
@@ -28,6 +30,7 @@
                 "recipeName": "Milkshake",
                 "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
                 "rating": 4,
+                "likes": 655,
                 "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             }
         ]
@@ -45,6 +48,7 @@
                 "recipeName": "Muffin",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 3885,
                 "cookingMethod": "Heat gh and the vegetables are tender."
             },
             {
@@ -52,6 +56,7 @@
                 "recipeName": "Burrito",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 3785,
                 "cookingMethod": "ggg"
             },
             {
@@ -59,6 +64,7 @@
                 "recipeName": "Taco",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 34655,
                 "cookingMethod": "He hrough and the vegetables are tender."
             }
         ]
@@ -76,6 +82,7 @@
                 "recipeName": "Fried chicken",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 4525,
                 "cookingMethod": "Heat "
             },
             {
@@ -83,6 +90,7 @@
                 "recipeName": "Donuts",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 35,
                 "cookingMethod": ""
             },
             {
@@ -90,6 +98,7 @@
                 "recipeName": "Soft drink",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 37455,
                 "cookingMethod": "Heat through and the vegetables are tender."
             }
         ]
@@ -107,6 +116,7 @@
                 "recipeName": "Pizza",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 325,
                 "cookingMethod": "Hked through and the vegetables are tender."
             },
             {
@@ -114,6 +124,7 @@
                 "recipeName": "Onion ring",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 372,
                 "cookingMethod": "ddd"
             },
             {
@@ -121,6 +132,7 @@
                 "recipeName": "Pancake",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 3725,
                 "cookingMethod": "Heatd through and the vegetables are tender."
             }
         ]
@@ -138,6 +150,7 @@
                 "recipeName": "Bacon",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 725,
                 "cookingMethod": "is cooked through and the vegetables are tender."
             },
             {
@@ -145,6 +158,7 @@
                 "recipeName": "Chip",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 375,
                 "cookingMethod": "dddd"
             },
             {
@@ -152,6 +166,7 @@
                 "recipeName": "Milkshake",
                 "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
                 "rating": 4,
+                "likes": 3725,
                 "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             }
         ]
@@ -169,6 +184,7 @@
                 "recipeName": "Milkshake",
                 "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
                 "rating": 4,
+                "likes": 3725,
                 "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
@@ -176,6 +192,7 @@
                 "recipeName": "Kung Pao Chicken",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 3725,
                 "cookingMethod": "gggff"
             },
             {
@@ -183,6 +200,7 @@
                 "recipeName": "Sweet and Sour Pork",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
+                "likes": 3725,
                 "cookingMethod": "Hethrough and the vegetables are tender."
             }
         ]
